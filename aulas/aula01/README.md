@@ -3,7 +3,7 @@
 1. Clonar um repositório
 
 ```shell
-git clone
+git clone aopsdla
 ```
 
 2. Configurar nome e email
