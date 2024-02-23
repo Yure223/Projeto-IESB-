@@ -3,7 +3,7 @@
 1. Clonar um repositório
 
 ```shell
-git cloe addaw
+git cloe eduardo
 ```
 
 2. Configurar nome e email
